@@ -1,0 +1,20 @@
+﻿Couple Things Because This Part Got Weird
+
+- I donwloaded the zip from blackboard
+- Unzip it
+- Right Click on the Project and Add Existing
+	- I had to select all files to find the fpnwind.mdb file
+- Once its added 
+- Add the listbox on the form
+- ON the DataSource Property Select Add New Data Source
+- Follow the Wizard to select the file, then the Products Table
+	- Select ProductId, ProductName, UnitPrice
+- You may need to do an update to MySql
+- Once you complete the wizard in your solution explorer you should see the fpnwindDataSet.xsd files
+
+- Update Some Properties
+	•	Click on displaymember property and select productname or what you want to display
+	•	Select valuemember property and select productID
+	•	Selecteditem returns displaymember, selectedvalue returns valuemember
+- Add the .sortedProperty for the listbox in the form_load method
+- Play with changing the display memeber and to unit price and see if you can format the currency

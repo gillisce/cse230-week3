@@ -1,0 +1,41 @@
+﻿This week we will be looking at the CheckedListBox and some of the built in functions
+       
+	   
+	-Start with the Control List Box Project First
+		- We will look a the following built in properties of the checkedListBox control
+			○ setItemChecked
+			○ Add Range
+			○ Insert
+			○ Clear
+			○ IndexOf
+			○ Sorted
+		- Instead of the normal lecutre notes we will just be looking at the code
+		- Feel free to rebuild this for your own practice or play with the code I wrote to explore
+	-When you feel good about that move onto the next project
+	
+
+	- List Control with Data
+		- This project will take a look at importing a data set 
+		- Show how to output a real dataset into a list control
+
+		- To Add a Database project (you can find file on BlackBoard)
+			- Right click on project and choose add-existing items
+		- On the Choose objects, select Prdouct name, product id, unit price
+		- Use the NotesForAddingDataSource for steps on the rest of the process
+
+	- TreeView Control
+		- See notes within the code of the form and on the form for this control
+		- This control allows a simple way to organize a list of values in a Hierarchy,
+			we are able to add parent and child nodes and remove them from the item list
+
+
+
+
+
+
+
+
+
+
+- Please provide any feedback on if this was a good way to get the material or not
+- I am trying to switch it up so it wont always be just a PDF you have to read through
